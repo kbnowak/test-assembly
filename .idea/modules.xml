@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/test-assembly.iml" filepath="$PROJECT_DIR$/test-assembly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-assembly-assembly/test-assembly-assembly.iml" filepath="$PROJECT_DIR$/test-assembly-assembly/test-assembly-assembly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-assembly-core/test-assembly-core.iml" filepath="$PROJECT_DIR$/test-assembly-core/test-assembly-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-assembly-web/test-assembly-web.iml" filepath="$PROJECT_DIR$/test-assembly-web/test-assembly-web.iml" />
+    </modules>
+  </component>
+</project>
